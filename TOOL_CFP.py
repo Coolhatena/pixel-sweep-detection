@@ -65,7 +65,7 @@ while not cap.isOpened():
     cap = cv.VideoCapture(0)
 
 while True:
-    src = cv.imread("./img_1.jpg")
+    src = cv.imread("./img_8.jpg")
     #cv.imshow('src1',src)
     
     cv.imshow('FILTER',src)

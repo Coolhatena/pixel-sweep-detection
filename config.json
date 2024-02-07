@@ -2,9 +2,15 @@
 	"roi_data": [
 		{
 			"x": 1,
-			"y":230,
-			"width": 1919,
-			"height": 100
+			"y":500,
+			"width": 1918,
+			"height": 300,
+			"subroi_width": 300,
+			"subroi": [
+				200,
+				600,
+				1000
+			]
 		}
 	],
 	
